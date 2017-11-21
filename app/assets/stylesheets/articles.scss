@@ -1,0 +1,25 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #fff;
+}
+.navbar {
+  min-height: 50px;
+  margin-bottom: 0px;
+  border: 1px solid transparent;
+  text-decoration: none;
+  background-color: #e7e7e7;
+  border-color: #e7e7e7;
+
+}
+
+.navbar-right{
+  float: right !important;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
